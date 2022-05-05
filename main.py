@@ -1,4 +1,4 @@
-from text_analyser.bonjour import bonjour
+from bonjour import bonjour
 
 class main:
 
